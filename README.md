@@ -186,3 +186,6 @@ Bruna Pupo
 
 Henrique Rezer  
 [🔗 *GitHub*](https://github.com/Henriquerezer)
+
+Mauricius Correa
+[🔗 *GitHub*](https://github.com/MauruCorrea)
